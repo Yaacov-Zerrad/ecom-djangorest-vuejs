@@ -1,8 +1,7 @@
-ecom_vue
 env
-
-ecom_vue/.DS_Store
 ecom_vue/node_modules
+ecom_vue/.DS_Store
+
 ecom_vue/dist
 
 
